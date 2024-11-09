@@ -21,7 +21,7 @@ repository               : "XZY114514/5xyjuruo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "https://cdn.luogu.com.cn/upload/image_hosting/xl8pb6uu.png"
   name             : "5xy_juruo"
   pronouns         : "he" # example: "she/her"  
   bio              : "-"
